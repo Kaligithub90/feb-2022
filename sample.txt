@@ -1,4 +1,4 @@
 first comment 
 second comment
 for git pull commond
-and git merge
+am
